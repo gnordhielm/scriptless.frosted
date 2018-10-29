@@ -8,8 +8,6 @@
 
 A simple frosted glass background effect for React components.
 
-<img src="https://siteless.co/assets/image/5631986051842048" width="325" />
-
 ## Quick Start
 
 This library provides two exports: `Frosted` and `FrostedContainer`.
@@ -57,3 +55,4 @@ class FrostyList extends React.Component {
 * Border radius support - just read from the rendered frosted component.
 * Updates on scroll.
 * Respect parent overflow style rule.
+* Storybook.
